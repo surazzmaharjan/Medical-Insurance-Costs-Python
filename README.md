@@ -7,9 +7,4 @@ However, doing tasked with working with the actual information in the dataset an
 independent analysis on real-world data! We will not be providing step-by-step instructions on what to do, but we will provide you with a framework to structure your exploration and analysis.
 
 Prerequisites:
-Data Acquisition
-Data Visualization
-Hypothesis Testing
-Summarizing Quantitative Data
-Data Wrangling and Tidying
-Data Manipulation with Pandas
+Python Fundamentals
